@@ -99,6 +99,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Feel free to submit issues and pull requests to enhance the functionality or fix bugs.
 
 ## Contact
-For questions or suggestions, please contact [Email](nishanrajak7670@gmail.com) or [Github](https://github.com/nishuR31).
+For questions or suggestions, please contact [nishanrajak7679@gmail.com](mailto:nishanrajak7679@gmail.com)  or [Github](https://github.com/nishuR31).
 
 
