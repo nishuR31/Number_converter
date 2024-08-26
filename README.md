@@ -14,8 +14,15 @@ This Python program is a command-line tool for converting numbers between binary
 <br>
   
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/nishuR31/Number_converter)
+<div style="display: inline-flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
+  <a href="https://github.com/sponsors/nishuR31" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Sponsor%20Me-GitHub%20Sponsors-blueviolet" alt="Sponsor Me"></a>
+  <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103&color=blueviolet" alt="Open Source Love">
+  <img src="https://img.shields.io/badge/-Follow%20Me%20-blueviolet" alt="Follow Me"></div>
 
-
+<br>
+<div style="display: inline-flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
+ <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" width="60"/> </a></div>
+  
 ## Installation
 1. **Clone the Repository:**
    ```bash
@@ -27,6 +34,10 @@ This Python program is a command-line tool for converting numbers between binary
    Make sure you have Python installed, then install the required packages using pip:
    ```bash
    pip install colorama
+   ```
+   or
+   ```bash
+   pip install -r requirements.txt
    ```
 
 ## Usage
@@ -85,3 +96,5 @@ Feel free to submit issues and pull requests to enhance the functionality or fix
 
 ## Contact
 For questions or suggestions, please contact [Email](nishanrajak7670@gmail.com) or [Github](https://github.com/nishuR31).
+
+
