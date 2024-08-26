@@ -88,6 +88,10 @@ This Python program is a command-line tool for converting numbers between binary
 - Invalid inputs for numbers or bases are handled with appropriate error messages.
 - Base must be one of the following values: 2, 8, 10, or 16.
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nishuR31&repo=Number_converter&show_owner=true&theme=midnight-purple)](https://github.com/nishuR31)
+
+
+
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
